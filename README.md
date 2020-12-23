@@ -2,9 +2,7 @@
 ## BS435 Web Programlama 1 Dersi Vize Ödevi
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
 
-Tasarlayan: **Adı Soyadı**
-Furkan GÜVEN
-
+Tasarlayan: **Furkan GÜVEN**
 
 # Dosyalar
 
