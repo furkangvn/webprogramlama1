@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+   
+</head>
+<body>
+	<div class="container" style="padding: 5% 0;">
+            <div style="width: 100%; text-align: center;">
+                <h2>Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü Web Programlama 1 Dersi Final Sorusu</h2>
+            </div>
+            <p> Furkan GUVEN </p>
+            <p>Alışveriş Uygulaması</p>
+            <p>Almak istediğiniz ürünleri aşağıdan seçebilirsiniz</p>
+            
+        </div>
+    <div class="container" >
+        <div class="row" style="top:25px;">
+            <div class="col-md-4 special-products-grid text-center" style="        border-style: solid;  border-color: #808080;" ">
+                <div class="col-md-12 " style="        border-style: solid;
+        background-color: #c5c2c2;
+        border-color: #808080;">
+
+                    <h4>Ekmek</h4>
+
+
+                </div>
+
+                <div class="col-md-12 " style="margin:5%">
+                    <span style="        font-size: 25px;
+        font-weight: bold;">1₺</span><small>/</small><label>Adet </label><br />
+                    <p>Somun Ekmek</p>
+                    <p>125 Gr</p>
+
+
+                </div>
+                <div class="col-md-12" style="margin:2px;padding:2px">
+                  <a href="HtmlPage.html?urun_id=1" style="width:100%" class="btn btn-primary">Sepete ekle</a>
+
+
+                </div>
+            </div>
+
+            <div class="col-md-4 special-products-grid text-center" style="border-style: solid; border-color: #808080;" ">
+                <div class="col-md-12 " style="        border-style: solid;
+        background-color: #c5c2c2;
+        border-color: #808080;">
+                    <h4>Çikolata</h4>
+
+
+                </div>
+
+                <div class="col-md-12 " style="margin:5%">
+                    <span style="        font-size: 25px;
+        font-weight: bold;">3₺</span><small>/</small><label>Adet </label><br />
+                    <p>Beyaz Çikolata</p>
+                    <p>60 Gr</p>
+
+                </div>
+                <div class="col-md-12" style="margin:2px;padding:2px">
+                    <a href="HtmlPage.html?urun_id=2" style="width:100%" class="btn btn-primary">Sepete ekle</a>
+
+                </div>
+            </div>
+
+            <div class="col-md-4 special-products-grid text-center" style="        border-style: solid;  border-color: #808080;" ">
+                <div class="col-md-12 " style="        border-style: solid;
+        background-color: #c5c2c2;
+        border-color: #808080;">
+                    <h4>Domates</h4>
+
+
+                </div>
+
+                <div class="col-md-12 " style="margin:5%">
+                    <span style="        font-size: 25px;
+        font-weight: bold;">5₺</span><small>/</small><label>Kg </label><br />
+                    <p>Patates </p>
+                    <p>Nevşehir Aria</p>
+
+                </div>
+                <div class="col-md-12" style="margin:2px;padding:2px">
+                    <a href="HtmlPage.html?urun_id=3" style="width:100%" class="btn btn-primary">Sepete ekle</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+
+
+    <script>
+
+    </script>
+</body>
+</html>
